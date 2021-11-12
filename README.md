@@ -1,4 +1,4 @@
-# cse569-fsl-project-part2
+# statistical-learning-project-part2 
 
 ## Summary of Project Tasks:
 
